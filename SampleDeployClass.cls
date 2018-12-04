@@ -1,6 +1,6 @@
 @isTest
 public class SampleDeployClass {
-	// changes made by configuring job through jenkins
+	// changes made by configuring job via jenkins through GIT
     public static testmethod void t1() {
         helloMethod();
 
